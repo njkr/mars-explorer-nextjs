@@ -1,0 +1,6 @@
+projectKey=land_marsx_io
+serverUrl=https://sonarqube.marsx.io
+serverVersion=10.6.0.92116
+dashboardUrl=https://sonarqube.marsx.io/dashboard?id=land_marsx_io
+ceTaskId=2dc85d97-7f13-42f1-bab7-6087dda3476d
+ceTaskUrl=https://sonarqube.marsx.io/api/ce/task?id=2dc85d97-7f13-42f1-bab7-6087dda3476d
